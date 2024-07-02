@@ -1,0 +1,12 @@
+{
+  "name": "boggle",
+  "version": "1.0.0",
+  "main": "boggle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

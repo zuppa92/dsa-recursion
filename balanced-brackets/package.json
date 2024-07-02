@@ -1,0 +1,14 @@
+{
+  "name": "balanced-brackets",
+  "version": "1.0.0",
+  "description": "A project to check balanced brackets using recursion",
+  "main": "balancedBrackets.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
